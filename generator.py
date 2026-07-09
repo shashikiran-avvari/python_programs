@@ -4,5 +4,8 @@ def squres(n):
 
 x=squres(5)
 print(next(x))
-print(next(x));print(next(x));print(next(x));print(next(x))
+print(next(x))
+print(next(x))
+print(next(x))
+print(next(x))
 print(next(x))
